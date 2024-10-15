@@ -46,4 +46,5 @@ I am fascinated by the performance, safety, and efficiency that Rust brings, esp
 Here are some resources that have helped me in my learning journey:
 - [The Rust Programming Language (Book)](https://doc.rust-lang.org/book/)
 - [Rustlings](https://github.com/rust-lang/rustlings) - Practical exercises to learn Rust.
-- [Comprehensive Rust (Book)](https://google.github.io/comprehensive-rust/) - Comprehensive Rust 🦀
+- [Comprehensive Rust 🦀 (Book)](https://google.github.io/comprehensive-rust/) 
+- [Rust-By-Example (Book)](https://doc.rust-lang.org/stable/rust-by-example/) 
