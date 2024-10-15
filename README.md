@@ -33,7 +33,7 @@ I am fascinated by the performance, safety, and efficiency that Rust brings, esp
 ## My Rust Projects 🛠️
 
 ### Project 1: Hello Word 
-**Description**: The first project that everyone do.
+**Description**: The first project that everyone do.<br>
 **Objectives**:
 - Display `Hello Word` in the console.
 
