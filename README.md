@@ -38,7 +38,7 @@ I am fascinated by the performance, safety, and efficiency that Rust brings, esp
 - Display `Hello Word` in the console.
 
 **Status**: ✅   
-**GitHub repository**: [Link to project](#)
+**GitHub repository**: [https://github.com/Firebleu/rustfromscratch/tree/main/Project1](#)
 
 ### Project 2: INCOMING
 
