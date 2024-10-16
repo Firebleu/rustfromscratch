@@ -19,6 +19,7 @@ I am fascinated by the performance, safety, and efficiency that Rust brings, esp
 
 ### Step 1: Learning the Basics of Rust
 - [x] **Installing Rust and setting up the environment** (cargo, rustc)
+- [x] **Understand rustc and cargo** (differences)
 - [ ] **Basic syntax**: variables, conditions, loops.
 - [ ] **Functions and Types**: primitives, structs, enums.
 - [ ] **Error handling**: Result, Option.
