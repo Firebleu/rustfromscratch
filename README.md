@@ -43,8 +43,11 @@ I am fascinated by the performance, safety, and efficiency that Rust brings, esp
 
 ### Project 2: Primitive Data
 **Description**: All the primitive data types for rust do.<br>
-**Objectives**: Learn the 4 primitive data of rust
+**Objectives**: Learn the 4 primitive data of rust.
 - Display the `4 primitive data of rust` in the console.
+
+**Status**: ✅   
+**GitHub repository**: [https://github.com/Firebleu/rustfromscratch/tree/main/Project2](#)
 
 ### Project 3: INCOMING
 
