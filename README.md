@@ -55,7 +55,7 @@ I am fascinated by the performance, safety, and efficiency that Rust brings, esp
 - Display the `compound data of rust` in the console.
 
 **Status**: ✅   
-**GitHub repository**: [https://github.com/Firebleu/rustfromscratch/tree/main/Project2](#)
+**GitHub repository**: [(https://github.com/Firebleu/rustfromscratch/tree/main/Project3)](#)
 
 ### Project 4: INCOMING
 
